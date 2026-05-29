@@ -93,10 +93,6 @@ tools
     └── .gitkeep
 ```
 
-### なぜ `pdf_devide.py` ではなく `pdf_divide.py` なのか
-
-`divide` は「分割する」という意味の正しい英語スペルです。GitHub で公開する正式ファイル名として **`pdf_divide.py`** に統一しています。
-
 ## 事前準備
 
 依存パッケージ `pypdf` をインストールします。
